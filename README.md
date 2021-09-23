@@ -12,4 +12,6 @@ The button's click and hover events are handled with Naninovel's [Play Script](h
 
 The availability of the locations is controlled with [Variable Trigger](https://naninovel.com/guide/custom-variables.html#variable-triggers) components attached to the buttons.
 
+![](https://i.gyazo.com/9bcb2107de1fa7873fe1e18ab7c8d625.png)
+
 Be aware, that [Naninovel](https://u3d.as/1pg9) package is not distributed with the project, hence compilation errors will be produced after opening it for the first time; import Naninovel from the Asset Store to resolve the issues.
