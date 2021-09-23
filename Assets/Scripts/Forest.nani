@@ -20,6 +20,7 @@ Hurry to the lake, cool it off!
 # Kick
 @spawn ShakeCamera wait:false
 @back tint:green time:2 easing:EaseOutBounce
+Mushroom explodes covering you in glowing sticky spores accompanied by atrocious odor.
 The odor lures local bees.[i] They are killing bees, actually.
 F?
 @choice F do:@title play:false
